@@ -1,5 +1,5 @@
 {
-  "name": "template-lib",
+  "name": "[name]",
   "version": "0.0.0",
   "description": "description",
   "main": "dist/index.cjs",
@@ -13,13 +13,13 @@
     "prepublishOnly": "bumpp --commit --push --tag && pnpm build",
     "release": "pnpm publish"
   },
-  "homepage": "https://github.com/BTBMan/template-lib#readme",
+  "homepage": "https://github.com/BTBMan/[name]#readme",
   "bugs": {
-    "url": "https://github.com/BTBMan/template-lib/issues"
+    "url": "https://github.com/BTBMan/[name]/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BTBMan/template-lib.git"
+    "url": "git+https://github.com/BTBMan/[name].git"
   },
   "keywords": [],
   "files": [

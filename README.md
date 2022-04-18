@@ -1,3 +1,2 @@
-# template lib
+# [name]
 
-A template for build lib
